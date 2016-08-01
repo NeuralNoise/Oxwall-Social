@@ -1,0 +1,1 @@
+<h1 onclick="window.parent.location.href=window.location.href;window.location.reload();" style="cursor:pointer;color:#336699;background-color:white;border:solid 1px grey;padding:3;"><?PHP echo $_REQUEST['name']; ?></h1>
